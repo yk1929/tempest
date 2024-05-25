@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: emergency-ryousan-type
+    name: yk1929_tempest-type
     env: python
     region: Oregon
     plan: free
